@@ -3,34 +3,18 @@ body {
     
     background-color: rgb(254, 248, 248);
 }
-    
-        .download.jpg{
-            background: "download.jpg"
-            display: flex;
-            justify-content: space-between;
-            size-adjust: 100px;           
-        }
-       
-        .header{
-            font-weight: bolder;
-            font-size: 50px;
-        }
-        .intro{
-            font-size: 20px
-        }
-        .subheader1{
-            font-weight: bold
-            font-size = 35px;  
-        }
-        .subheader2{
-            font-weight: bold;
-            font-size: 35px;
-        }
-        .subheader3{
-            font-weight: bold;
-            font-size: 35px;
-        }
-        .subheader4{
-            font-weight: bold;
-            font-size: 35px;
-        }
+.pic{
+    display: inline-flex;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+}
+
+   
+
+.pic image{
+    padding-left: 20pc;
+    width: 100%;
+    height: 100%;
+   
+}
