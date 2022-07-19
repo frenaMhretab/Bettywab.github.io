@@ -18,3 +18,12 @@ body {
     height: 100%;
    
 }
+li a{
+    color: black;
+    text-decoration-line: none;
+
+}
+li a:hover{
+    text-decoration: underline;
+    
+}
