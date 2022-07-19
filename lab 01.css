@@ -6,7 +6,6 @@ body {
     
         .download.jpg{
             background: "download.jpg"
-            
             display: flex;
             justify-content: space-between;
             size-adjust: 100px;           
