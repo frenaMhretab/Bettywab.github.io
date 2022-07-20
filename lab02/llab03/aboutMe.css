@@ -1,6 +1,6 @@
 body {
     
-    background-image: url("pic3.webp") 
+    background-image: url('./abstract-blur-empty-green-gradient-studio-well-use-as-backgroundwebsite-templateframebusiness-report_1258-52607.webp');
 }
     
         .img1{
@@ -10,6 +10,7 @@ body {
         }
        
         .header{
+            color: rgb(129, 164, 233);
             font-weight: bolder;
             font-size: 50px;
         }
@@ -17,6 +18,7 @@ body {
             font-size: 20px
         }
         .subheader1{
+            color: aqua;
             font-weight: bold
             font-size = 35px;  
         }
