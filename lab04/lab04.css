@@ -8,11 +8,11 @@ body{
     padding: 0pt;
 }
 .h1backgroundimage{
-    background-image: url(./images/bannerbg.png);
+    background-image: url(./bannerbg.png);
     background-repeat: repeat-x;  
 }
 .h2backgroundimage{
-    background-image: url(./images/rbg.png);
+    background-image: url(./rbg.png);
     background-repeat: repeat-x; 
     }
 
